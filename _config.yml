@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/suXxInk2UBa3D0rGs2gGgZtavWJsh1sy.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "tauroxchao2@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  facebook: deanattali
+  github: NerdyPro56
+  twitter: NerdyPro
+#  patreon: DeanAttali
+  youtube: "@nerdypro69"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -67,7 +67,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: NerdyPro
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -80,7 +80,7 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
-#  itchio: yourname
+  itchio: NerdyPro
 #  untappd: yourname
 #  strava: youruserid
 
