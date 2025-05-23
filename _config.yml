@@ -21,6 +21,7 @@ author: Taurox Chao
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -75,7 +76,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  discord: "nerdypro"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
