@@ -54,6 +54,7 @@ I want to intern as a developer in a learning environment where I can apply my c
 - Varsity Swim Team and Riptide Swim Team / Athlete (Varsity: November 2023 - Current) (Club swim team: 2018 - Current)
 - Code Club (September 2024 - Current)
 - District Library / Volunteer / Teacher (January 2023 - Current)
+
 ### Education
 East Brunswick High School / 10th Grade Sophomore (September 2024 - Current)
 
