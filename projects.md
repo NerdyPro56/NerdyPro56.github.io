@@ -19,3 +19,15 @@ This is my submission for the Game Off 2024. This is my second game jam attempt 
 [Link to the game on itch.io](https://nerdypro.itch.io/game-for-math-teacher)
 
 This was more of a 'joke' game for 'Lellympics'. Even so, it showcases my experience in creating platformer games.
+
+# Web Development
+
+## This portfolio
+
+Pretty self explanatory to be honest... It uses the Github Pages platform.
+
+## Website for Chinese National Honors Society
+
+[Link to website](https://ebcnhs.wordpress.com/)
+
+A work in progress website for the newly created club at my school to spread Chinese culture. It uses the Wordpress platform.
