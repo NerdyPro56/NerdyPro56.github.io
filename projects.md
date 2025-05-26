@@ -31,3 +31,11 @@ Pretty self explanatory to be honest... It uses the Github Pages platform.
 [Link to website](https://ebcnhs.wordpress.com/)
 
 A work in progress website for the newly created club at my school to spread Chinese culture. It uses the Wordpress platform.
+
+# Robotics
+
+## Line Tracing Robot
+
+Picture and more about this coming soon! Won 2nd place in Robocup Junior Nationals Competition.
+
+## Robot Tour and Eletric Vehicle (Science Olympiad)
