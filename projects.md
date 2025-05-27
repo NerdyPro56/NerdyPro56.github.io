@@ -20,6 +20,16 @@ This is my submission for the Game Off 2024. This is my second game jam attempt 
 
 This was more of a 'joke' game for 'Lellympics'. Even so, it showcases my experience in creating platformer games.
 
+# Artificial Intelligence
+
+## NLP Artificial Intelligence Model for Stock Prediction
+
+[Link to project presentation](https://docs.google.com/presentation/d/1ffeOUkegIC0TnsLUNx25VbE24r4amdEeHK_O_Rizlcs/edit?slide=id.p#slide=id.p)
+
+[Colab Notebook Lesson](https://colab.research.google.com/drive/1G6M_ol4hl45e1ZIUqER92u1_LZRJVpuU#scrollTo=tCqlOID7tMxc)
+
+The project was completed with the help of the AI Scholars program.
+
 # Web Development
 
 ## This portfolio
