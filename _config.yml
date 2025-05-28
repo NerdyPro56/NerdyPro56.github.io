@@ -22,6 +22,7 @@ author: Taurox Chao
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
+  Contact: "contact"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
