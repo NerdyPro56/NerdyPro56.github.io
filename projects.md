@@ -9,8 +9,8 @@ Hey there! Wanna see a practical application of my knowledge? Here ya go!
 # Game Design
 
 ## Secrets of the Spell ("Game Off 2024")
-![Game screenshot](https://github.com/NerdyPro56/NerdyPro56.github.io/blob/0a4d65e146a65b84f9cdaa9df8c95b151b1a07aa/assets/img/Screenshot%202025-05-31%20133048.png)
-![Game screenshot](https://github.com/NerdyPro56/NerdyPro56.github.io/blob/0a4d65e146a65b84f9cdaa9df8c95b151b1a07aa/assets/img/Screenshot%202025-05-31%20133147.png)
+![Game screenshot](https://github.com/NerdyPro56/NerdyPro56.github.io/blob/0a4d65e146a65b84f9cdaa9df8c95b151b1a07aa/assets/img/Screenshot%202025-05-31%20133048.png) ![Game screenshot](https://github.com/NerdyPro56/NerdyPro56.github.io/blob/0a4d65e146a65b84f9cdaa9df8c95b151b1a07aa/assets/img/Screenshot%202025-05-31%20133147.png)
+
 [Link to the game on itch.io](https://nerdypro.itch.io/secrets-of-the-spell)
 
 This is my submission for the Game Off 2024. This is my second game jam attempt (did not submit on time for first). Game Off was a month long game jam and had the theme of "Secrets". Through the game and feedback, I learned to create a Tile-based RPG and how to impliment various upgrades for the player. Next time I do a game jam, I will ensure that I will use more formal language within my game and to make the combat more 'dynamic' and responsive.
