@@ -9,8 +9,8 @@ Hey there! Wanna see a practical application of my knowledge? Here ya go!
 # Game Design
 
 ## Secrets of the Spell ("Game Off 2024")
-![alt text](https://github.com/NerdyPro56/NerdyPro56.github.io/blob/0a4d65e146a65b84f9cdaa9df8c95b151b1a07aa/assets/img/Screenshot%202025-05-31%20133048.png "Secrets Game Screenshot 1") 
-![alt text](https://github.com/NerdyPro56/NerdyPro56.github.io/blob/0a4d65e146a65b84f9cdaa9df8c95b151b1a07aa/assets/img/Screenshot%202025-05-31%20133147.png "Secrets Game Screenshot 2")
+![Screenshot 2025-05-31 133147](https://github.com/user-attachments/assets/c2070a7d-c8ae-4c02-8005-d72a60ceb39d)
+![Screenshot 2025-05-31 133048](https://github.com/user-attachments/assets/2d80aa30-5385-4094-bfed-588a720d6d55)
 
 [Link to the game on itch.io](https://nerdypro.itch.io/secrets-of-the-spell)
 
