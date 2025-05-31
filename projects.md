@@ -12,7 +12,7 @@ Hey there! Wanna see a practical application of my knowledge? Here ya go!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c2070a7d-c8ae-4c02-8005-d72a60ceb39d" alt="Secrets Game Screenshot 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/2d80aa30-5385-4094-bfed-588a720d6d55" alt="Secrets Game Screenshot 2" width="45%" height="300">
+  <img src="https://github.com/user-attachments/assets/2d80aa30-5385-4094-bfed-588a720d6d55" alt="Secrets Game Screenshot 2" width="45%">
 </p>
 
 [Link to the game on itch.io](https://nerdypro.itch.io/secrets-of-the-spell)
