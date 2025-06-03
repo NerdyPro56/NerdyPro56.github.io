@@ -58,8 +58,7 @@ I want to intern as a developer in a learning environment where I can apply my c
 ### Education
 East Brunswick High School / 10th Grade Sophomore (September 2024 - Current)
 
-# resume work in progress
-
+### Acomplishments coming soon...
 
 
 
