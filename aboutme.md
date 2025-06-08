@@ -5,7 +5,7 @@ subtitle: Goals, Story, and Resume
 ---
 
 My name is Taurox Chao. I am trying to improve the following skills:
-<img align="right" width="150" height="200" src="https://github.com/user-attachments/assets/50a1d633-4aaa-4863-af05-84e0579bff27">
+<img align="right" width="350" height="500" src="https://github.com/user-attachments/assets/50a1d633-4aaa-4863-af05-84e0579bff27">
 - Programming (Currently experienced in C/C++, Java, Python, and HTML/CSS) 👩‍💻
 - Eletrical Engineering 💡⚡👩‍🔧
 - My art skills! 🎨
