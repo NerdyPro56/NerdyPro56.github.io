@@ -2,9 +2,9 @@
 layout: post
 title: My top 10 favorite Animes movies/shows of all time!
 subtitle: Whether it's relaxing, romantic, or exciting, these are my top Anime picks
-cover-img: ![thumb-1920-736461](https://github.com/user-attachments/assets/a580705a-9b97-4f9f-a950-2417bad7d335)
-thumbnail-img: ![thumb-1920-736461](https://github.com/user-attachments/assets/2efa1b74-8dbb-49b8-b2c4-b9ed988dd11a)
-share-img: ![thumb-1920-736461](https://github.com/user-attachments/assets/c45c1324-bd0b-4d5c-a5c6-bbc2ba1e4f2c)
+cover-img: /assets/img/your-name-ep-funimation-entertainment.jpg
+thumbnail-img: /assets/img/your-name-ep-funimation-entertainment.jpg
+share-img: /assets/img/your-name-ep-funimation-entertainment.jpg
 tags: [anime, media, entertainment]
 author: Taurox Chao
 ---
