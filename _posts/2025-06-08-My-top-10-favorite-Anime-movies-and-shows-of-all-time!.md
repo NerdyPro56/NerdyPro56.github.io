@@ -25,7 +25,7 @@ author: Taurox Chao
 ![Fullmetal_Alchemist_Brotherhood_key_visual](https://github.com/user-attachments/assets/0828cc0a-5cc7-44d4-9a49-aaab008c9074)
 
 ## 6. Nichijou
-### Greatest comfort show in history!
+### Greatest comfort show in history
 ![nichijou_funimation](https://github.com/user-attachments/assets/82641d72-b03d-47fb-aea9-d7a9a1e3fd5b)
 
 ## 5. Kaguya Sama: Love is War
