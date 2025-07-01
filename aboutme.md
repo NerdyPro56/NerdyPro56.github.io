@@ -33,6 +33,10 @@ Honestly, I'm only in high school so I'm only at the beginning of my life's jour
     - [https://ebcnhs.wordpress.com](url)
     - [https://ebswim.wordpress.com](url)
 
+## Certificates (pursuing and completing)
+
+### Algorithms, Part I, Princeton University (Pursuing)
+
 ## Brief Summary of Resume
 
 [Resume Link](https://docs.google.com/document/d/1ou86cMKmkbK_nFvmGbKvGwgekbcl1y7rM5WmSnY8SrU/edit?usp=sharing)
