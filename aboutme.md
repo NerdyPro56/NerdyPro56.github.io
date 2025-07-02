@@ -35,7 +35,10 @@ Honestly, I'm only in high school so I'm only at the beginning of my life's jour
 
 ## Certificates (pursuing and completing)
 
+## From Coursera:
 ### Algorithms, Part I, Princeton University (Pursuing)
+
+### Financial Markets, Yale University (Pursuing)
 
 ## Brief Summary of Resume
 
