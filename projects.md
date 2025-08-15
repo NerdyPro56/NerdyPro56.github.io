@@ -7,6 +7,21 @@ subtitle: Stuff I've done before
 Hey there! Wanna see a practical application of my knowledge? Here ya go!
 
 # Game Design
+## Escaton ("GMTK Game Jam 2025")
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cdad577-3f06-4adf-88d9-c1508a6e1577" alt="Escaton Game Screenshot 1" width="30%">
+  <img src="https://github.com/user-attachments/assets/c49ba604-2c35-46c8-a95f-f4b834a5424f" alt="Escaton Game Screenshot 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/7d023eb2-cdb0-4a55-9ab1-e7dc98e8696d" alt="Escaton Game Screenshot 3" width="45%">
+  <img src="https://github.com/user-attachments/assets/9b7c7e9a-ed1a-479b-b4d1-a5200e11c7e2" alt="Escaton Game Screenshot 4" width="45%">
+  <img src="https://github.com/user-attachments/assets/dd984ec1-6e70-4736-81a5-2420edc342fb" alt="Escaton Game Screenshot 5" width="45%">
+</p>
+
+[Link to the game on itch.io](https://nerdypro.itch.io/purgatory)
+
+[Link to GMTK live stream with Escaton gameplay](https://www.youtube.com/live/FCVgB5SYc0E?si=aF7wH8hF9tMzT-8F&t=5723)
+
+**Description coming soon!**
 
 ## Secrets of the Spell ("Game Off 2024")
 
