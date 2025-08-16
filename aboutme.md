@@ -7,9 +7,10 @@ subtitle: Goals, Story, and Resume
 My name is Taurox Chao. I am trying to improve the following skills:
 - Programming (Currently experienced in C/C++, Java, Python, and HTML/CSS) 👩‍💻
 - Eletrical Engineering 💡⚡👩‍🔧
-- My art skills! 🎨
+- Drawing! 🎨
 - Game Development! (Godot) 🎮️💻
 - Swimming 🏊
+- Kendo⚔️
 - Playing the flute 🎶
 - Other stuff
 
