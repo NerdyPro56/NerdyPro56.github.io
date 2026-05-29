@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Goals, Story, and Resume
 ---
-<img width="100" height="200" alt="IMG_6334" src="https://github.com/user-attachments/assets/aab82535-fa86-46d8-b461-d75aa6fdbfb2" />
+<img width="100" height="150" alt="IMG_6334" src="https://github.com/user-attachments/assets/aab82535-fa86-46d8-b461-d75aa6fdbfb2" />
 
 [//]: <img align="right" width="350" height="500" src="https://github.com/user-attachments/assets/50a1d633-4aaa-4863-af05-84e0579bff27">
 My name is Taurox Chao. I am trying to improve the following skills:
