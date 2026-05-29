@@ -9,6 +9,7 @@ My name is Taurox Chao. I am trying to improve the following skills:
 - Programming (Currently experienced in C/C++, Java, Python, and HTML/CSS) 👩‍💻
 - Eletrical Engineering 💡⚡👩‍🔧
 - Drawing! 🎨
+- Music Production! 🎶
 - Game Development! (Godot) 🎮️💻
 - Swimming 🏊
 - Kendo⚔️
