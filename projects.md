@@ -21,7 +21,7 @@ Hey there! Wanna see a practical application of my knowledge? Here ya go!
 
 [Link to GMTK live stream with Escaton gameplay](https://www.youtube.com/live/FCVgB5SYc0E?si=aF7wH8hF9tMzT-8F&t=5723)
 
-**Description coming soon!**
+This is my submission for the GMTK Game Jam 2025. This was the latest game jam I had participated in and was probably the most stressful (but fun!) game jam I have participated in **(description still incomplete)**
 
 ## Secrets of the Spell ("Game Off 2024")
 
