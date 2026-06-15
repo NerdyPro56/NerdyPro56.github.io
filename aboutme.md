@@ -51,8 +51,8 @@ Honestly, I'm only in high school so I'm only at the beginning of my life's jour
 I want to intern as a developer in a learning environment where I can apply my communication and technical skills. I hope to get hands-on experience in a professional environment. 
 
 ### Transcript (so far at least)
-[https://drive.google.com/file/d/1sIKI3YDnaiJGav4I72u3gxHY_hQJ5x7y/view
-](url)
+[Chao,Taurox_Transcript.pdf](https://github.com/user-attachments/files/28967447/Chao.Taurox_Transcript.pdf)
+
 
 ### Work Experience and Extracurriculars (brief summary):
 
@@ -65,7 +65,7 @@ I want to intern as a developer in a learning environment where I can apply my c
 - District Library / Volunteer / Teacher (January 2023 - Current)
 
 ### Education
-East Brunswick High School / 10th Grade Sophomore (September 2024 - Current)
+East Brunswick High School / 11th Grade Junior (September 2024 - Current)
 
 ### Acomplishments coming soon...
 
