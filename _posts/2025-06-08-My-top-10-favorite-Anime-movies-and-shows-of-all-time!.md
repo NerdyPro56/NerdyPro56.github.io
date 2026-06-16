@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My top 10 favorite Animes movies/shows of all time!
+title: My top 10 favorite Animes movies/shows of all time! (this is outdated my opinion is changed. ill update it when i get the chance)
 subtitle: Whether it's relaxing, romantic, or exciting, these are my top Anime picks
 cover-img: /assets/img/your-name-ep-funimation-entertainment.jpg
 thumbnail-img: /assets/img/your-name-ep-funimation-entertainment.jpg
