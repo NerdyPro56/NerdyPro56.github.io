@@ -21,7 +21,7 @@ Hey there! Wanna see a practical application of my knowledge? Here ya go!
 
 [Link to GMTK live stream with Escaton gameplay](https://www.youtube.com/live/FCVgB5SYc0E?si=aF7wH8hF9tMzT-8F&t=5723)
 
-This is my submission for the GMTK Game Jam 2025. This was the latest game jam I had participated in and was probably the most stressful (but fun!) game jam I have participated in **(description still incomplete)**
+This is my submission for the GMTK Game Jam 2025. This was probably the most stressful (but fun!) game jam I have participated in! In this game jam, I tried improving and exprimenting with various gameplay mechanics and ideas I had in previous games. I added telportation to other levels, changed how the enemy AI worked, and refined character movement and upgrades. For the future, epsecially with game jams, I think I may need to be a lot more realistic when it came to scope and difficulty. Many players found it difficult to progress in the game and to fully understand the combat. I will work on making the combat more responsive for next time.
 
 ## Secrets of the Spell ("Game Off 2024")
 
@@ -48,7 +48,7 @@ This was more of a 'joke' game for 'Lellympics'. Even so, it showcases my experi
 
 [Colab Notebook Lesson](https://colab.research.google.com/drive/1G6M_ol4hl45e1ZIUqER92u1_LZRJVpuU#scrollTo=tCqlOID7tMxc)
 
-The project was completed with the help of the AI Scholars program.
+The project was completed with the help of the AI Scholars program. I created a large language learning model capable of analyzing posts and information to online to predict whether a stock would go down or up. I also presented my findings and process in a presentation linked here. This experience has helped me further my knowledge on the potential of using AI for data organization.
 
 # Web Development
 
