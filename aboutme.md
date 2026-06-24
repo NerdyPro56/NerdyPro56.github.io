@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: Goals, Story, and Resume
 ---
-<img width="100" height="100" alt="IMG_6334" src="https://github.com/user-attachments/assets/aab82535-fa86-46d8-b461-d75aa6fdbfb2" />
 
 My name is Taurox Chao. I am trying to improve the following skills:
 - Programming (Currently experienced in C/C++, Java, Python, and HTML/CSS) 👩‍💻
